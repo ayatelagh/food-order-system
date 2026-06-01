@@ -34,7 +34,7 @@ Item Service      Order Service
 
 ## Technologies Used
 
-- Java 21
+- Java 26
 - Spring Boot
 - Spring Cloud
 - Eureka Server
@@ -65,7 +65,7 @@ Routes:
 
 | Service | Route |
 |----------|--------|
-| Item Service | /items/** |
+| food Service | /items/** |
 | Order Service | /orders/** |
 
 ---
@@ -289,12 +289,4 @@ Through this project, the following concepts were implemented and practiced:
 - Docker Containerization
 - Spring Cloud Ecosystem
 
-## Author
 
-**Mohammed**
-
-Faculty of Computers and Artificial Intelligence
-
-Microservices Course Project
-
-2026
